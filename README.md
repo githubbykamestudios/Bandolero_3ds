@@ -12,5 +12,5 @@ Creado por : Tristanabs y SoyLion
 Miembros de !Trab
  https://trgroup.gitbook.io/bandolero-3ds/about/creditos
 
-#Donar
+Donar:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T3I6BBF)
