@@ -10,6 +10,7 @@ Disponible en la Wiki proximamente.
 Creado por : Tristanabs y SoyLion
 Miembros de kame studios
  https://kamestudios.es
+
 Agradecimiento a Kelonio 3DS https://www.youtube.com/@Kelonio3DS
 
 CREADOR ORIGINAL DE NOTEPAD 3DS https://github.com/RMcTn/Notepad3DS
