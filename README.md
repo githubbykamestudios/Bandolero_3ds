@@ -17,3 +17,9 @@ CREADOR ORIGINAL DE NOTEPAD 3DS https://github.com/RMcTn/Notepad3DS
 
 # Donar:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T3I6BBF)
+
+# Soporte official
+
+Recuerda que puedes obtener soporte en Discord o por Email.
+https://discord.io/kamestudios
+kame.studios@exsina.cf
