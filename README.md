@@ -15,10 +15,9 @@ Agradecimiento a Kelonio 3DS https://www.youtube.com/@Kelonio3DS
 
 CREADOR ORIGINAL DE NOTEPAD 3DS https://github.com/RMcTn/Notepad3DS
 # Wiki
-Para saber como instalar la app o lo que sea visita:[
-](https://github.com/githubbykamestudios/Bandolero_3ds/wiki/Instalaci%C3%B3n)
-[
-](https://github.com/githubbykamestudios/Bandolero_3ds/wiki/Instalaci%C3%B3n)
+Para saber como instalar la app o lo que sea vión 
+https://github.com/githubbykamestudios/Bandolero_3ds/wiki/Instalación 
+
 
 # Donar:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T3I6BBF)
