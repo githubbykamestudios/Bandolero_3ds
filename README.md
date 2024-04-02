@@ -22,15 +22,8 @@ Para saber como instalar la app o otra info visita
 https://github.com/githubbykamestudios/Bandolero_3ds/wiki/Instalación 
 
 
-# Donar:
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T3I6BBF)
-
 # Soporte official
-
-Recuerda que puedes obtener soporte en Discord o por Email.
-
-tristanabs@kam-mail.es
-
+Estamos en proceso...
 # Aviso
 El desarrollo de Bandolero 3ds queda aplazado por Problemas Internos.
 Esperamos volveros pronto.
